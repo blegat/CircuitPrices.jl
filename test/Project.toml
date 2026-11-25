@@ -1,0 +1,8 @@
+[deps]
+CircuitPrices = "4bd50198-37e2-43a4-91cf-be8c3f86f9ff"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+QuadraticModels = "f468eda6-eac5-11e8-05a5-ff9e497bcd19"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[sources]
+CircuitPrices = {path = ".."}
